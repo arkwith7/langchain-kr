@@ -37,3 +37,4 @@ faiss-cpu
 # RAGchain is a framework for developing advanced RAG(Retrieval Augmented Generation) workflow powered by LLM (Large Language Model).
 RAGchain
 libhwp
+html5lib
