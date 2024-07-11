@@ -1,0 +1,18 @@
+{
+    "docsconverter": {
+        "result": {
+            "code": "0000",
+            "message": "SUCCESS"
+        },
+        "file": {
+            "key": "7b/93/b6c8bc678f22d5fc3fe4f5b36593",
+            "status": "D",
+            "total_page": "5",
+            "convert_total_page": "5",
+            "process_page": "0",
+            "resource_file": [
+                "/resource/7b/93/b6c8bc678f22d5fc3fe4f5b36593/(첨부5) 2024년도 하반기 중남미 지역기구 파견인턴 선발 공고.txt"
+            ]
+        }
+    }
+}
